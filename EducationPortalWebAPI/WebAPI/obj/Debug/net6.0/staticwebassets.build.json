@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "I6vwQvLDfndRmWMlIV4IA8lhJNvykE+NQm+vSC88X9A=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "C:\\Users\\ebilg\\source\\repos\\EducationPortalWebAPI\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

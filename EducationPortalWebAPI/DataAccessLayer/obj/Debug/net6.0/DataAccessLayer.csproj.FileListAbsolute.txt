@@ -1,0 +1,34 @@
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\bin\Debug\net6.0\Entities Layer.dll
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\bin\Debug\net6.0\Entities Layer.pdb
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\ebilg\source\repos\EducationPortal\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\bin\Debug\net6.0\Entities Layer.dll
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\bin\Debug\net6.0\Entities Layer.pdb
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\ebilg\source\repos\EducationPortalWebAPI\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
